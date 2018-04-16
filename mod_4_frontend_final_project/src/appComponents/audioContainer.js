@@ -4,7 +4,7 @@ import LoadedClipContainer from '../loadedClipComponents/loadedClipContainer'
 import filestack from 'filestack-js';
 
 const BASEURL = 'http://localhost:3000/clips'
-const API_KEY = //You need an API KEY from Filestack
+const API_KEY = 'A6dyIW50bTpjoR5kJXjFJz'
 
 class AudioContainer extends React.Component {
 

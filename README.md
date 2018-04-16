@@ -22,4 +22,4 @@ In development, we used the Web Audio API and D3.js to create waveforms and spec
 
 ## Video Demo
 
-Click <a href="https://www.youtube.com/watch?v=O6GFSxxUyp4&feature=youtu.be" target="_blank">here</a> for a video demo of Behind the Music.
+Click <a href="https://youtu.be/RP8ZFi4aqJg" target="_blank">here</a> for a video demo of Behind the Music.
